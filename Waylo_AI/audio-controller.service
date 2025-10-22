@@ -1,0 +1,16 @@
+[Unit]
+Description=Audio Controller API
+After=network.target
+Wants=network.target
+
+[Service]
+User=orangepi
+WorkingDirectory=/home/orangepi/Waylo_AI
+ExecStart=/usr/bin/python3 /home/orangepi/Waylo_AI/audio_controller.py
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

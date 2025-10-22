@@ -1,0 +1,31 @@
+[Unit]
+Description=Wailo BLE GATT Server with Pairing Mode and Auto-Handoff
+After=bluetooth.service network-online.target
+Requires=bluetooth.service
+Wants=network-online.target
+Before=wailo.service
+
+[Service]
+Type=oneshot
+User=root
+RemainAfterExit=yes
+StandardOutput=journal
+StandardError=journal
+
+# Step 1: Configure Bluetooth adapter
+ExecStartPre=/usr/bin/btmgmt -i hci0 power off
+ExecStartPre=/usr/bin/btmgmt -i hci0 le on
+ExecStartPre=/usr/bin/btmgmt -i hci0 bredr off
+ExecStartPre=/usr/bin/btmgmt -i hci0 connectable on
+ExecStartPre=/usr/bin/btmgmt -i hci0 power on
+
+# Step 2: Start GATT server in pairing mode
+ExecStart=/usr/bin/python3 /home/orangepi/Waylo_AI/wailo_gatt_server.py
+
+# Step 3: Wait for GATT server to signal completion via file
+ExecStartPost=/bin/bash -c 'echo "Waiting for iOS connection and data exchange..."'
+ExecStartPost=/bin/bash -c 'while [ ! -f /home/orangepi/Waylo_AI/.bluetooth_handoff_complete ]; do sleep 2; done'
+ExecStartPost=/bin/bash -c 'echo "BLE handoff completed by GATT server"'
+
+[Install]
+WantedBy=wailo.service

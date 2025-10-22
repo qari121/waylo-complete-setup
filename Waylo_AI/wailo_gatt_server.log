@@ -1,0 +1,1825 @@
+2025-09-10 19:59:23,531 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 19:59:24,681 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 19:59:24,688 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 19:59:24,688 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 19:59:24,688 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 19:59:24,688 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 19:59:24,688 INFO 🔐 Token Characteristic initialized
+2025-09-10 19:59:24,689 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 19:59:24,689 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 19:59:24,689 INFO 🔍 About to call RegisterApplication...
+2025-09-10 19:59:24,689 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 19:59:24,689 INFO 🔄 Starting main event loop...
+2025-09-10 19:59:24,691 INFO GetManagedObjects called
+2025-09-10 19:59:24,693 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 19:59:24,693 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 19:59:24,693 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 19:59:24,694 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 19:59:24,713 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 19:59:24,713 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 19:59:24,714 INFO 🔐 Device name: Wailo
+2025-09-10 19:59:24,714 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 19:59:24,714 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 19:59:24,714 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 19:59:59,136 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 19:59:59,137 INFO ✅ Data exchange completed! iOS has verified MAC address.
+2025-09-10 19:59:59,137 INFO 🔄 Shutting down BLE server and starting AI_Chat service...
+2025-09-10 19:59:59,137 INFO ✅ Handoff marked as complete
+2025-09-10 20:00:01,153 INFO ✅ BLE advertisement unregistered
+2025-09-10 20:00:01,154 INFO ✅ BLE server shutdown complete
+2025-09-10 20:02:52,278 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 20:02:53,455 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 20:02:53,470 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:02:53,470 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:02:53,471 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 20:02:53,471 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:02:53,471 INFO 🔐 Token Characteristic initialized
+2025-09-10 20:02:53,471 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 20:02:53,472 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 20:02:53,472 INFO 🔍 About to call RegisterApplication...
+2025-09-10 20:02:53,472 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 20:02:53,472 INFO 🔄 Starting main event loop...
+2025-09-10 20:02:53,478 INFO GetManagedObjects called
+2025-09-10 20:02:53,482 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 20:02:53,483 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:02:53,483 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 20:02:53,483 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 20:02:53,501 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 20:02:53,502 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 20:02:53,502 INFO 🔐 Device name: Wailo
+2025-09-10 20:02:53,502 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:02:53,502 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:02:53,503 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 20:03:29,101 INFO Received signal 15, shutting down gracefully...
+2025-09-10 20:03:29,122 INFO ✅ BLE advertisement unregistered
+2025-09-10 20:03:29,123 INFO ✅ BLE server shutdown complete
+2025-09-10 20:03:32,556 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 20:03:33,755 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 20:03:33,772 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:03:33,772 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:03:33,772 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 20:03:33,773 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:03:33,773 INFO 🔐 Token Characteristic initialized
+2025-09-10 20:03:33,773 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 20:03:33,774 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 20:03:33,774 INFO 🔍 About to call RegisterApplication...
+2025-09-10 20:03:33,774 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 20:03:33,774 INFO 🔄 Starting main event loop...
+2025-09-10 20:03:33,780 INFO GetManagedObjects called
+2025-09-10 20:03:33,784 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 20:03:33,784 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:03:33,785 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 20:03:33,785 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 20:03:33,803 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 20:03:33,804 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 20:03:33,804 INFO 🔐 Device name: Wailo
+2025-09-10 20:03:33,804 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:03:33,804 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:03:33,805 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 20:03:42,580 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:03:42,581 INFO ✅ Data exchange completed! iOS has verified MAC address.
+2025-09-10 20:03:42,582 INFO 🔄 Shutting down BLE server and starting AI_Chat service...
+2025-09-10 20:03:42,583 INFO ✅ Handoff marked as complete
+2025-09-10 20:03:44,610 INFO ✅ BLE advertisement unregistered
+2025-09-10 20:03:44,611 INFO ✅ BLE server shutdown complete
+2025-09-10 20:07:33,110 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 20:07:34,318 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 20:07:34,331 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:07:34,332 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:07:34,332 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 20:07:34,332 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:07:34,333 INFO 🔐 Token Characteristic initialized
+2025-09-10 20:07:34,333 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 20:07:34,333 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 20:07:34,333 INFO 🔍 About to call RegisterApplication...
+2025-09-10 20:07:34,333 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 20:07:34,333 INFO 🔄 Starting main event loop...
+2025-09-10 20:07:34,339 INFO GetManagedObjects called
+2025-09-10 20:07:34,343 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 20:07:34,343 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:07:34,344 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 20:07:34,344 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 20:07:34,371 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 20:07:34,372 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 20:07:34,372 INFO 🔐 Device name: Wailo
+2025-09-10 20:07:34,372 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:07:34,373 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:07:34,373 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 20:07:59,925 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:07:59,925 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:07:59,926 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:07:59,926 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 20:08:20,718 INFO 🔐 Received Firebase custom token from iOS
+2025-09-10 20:08:20,718 INFO Token length: 192 characters
+2025-09-10 20:08:21,118 WARNING ⚠️ Firebase service account key is placeholder - authentication disabled
+2025-09-10 20:08:22,511 ERROR Token exchange failed: 400 - {
+  "error": {
+    "code": 400,
+    "message": "API key not valid. Please pass a valid API key.",
+    "errors": [
+      {
+        "message": "API key not valid. Please pass a valid API key.",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "identitytoolkit.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key not valid. Please pass a valid API key."
+      }
+    ]
+  }
+}
+
+2025-09-10 20:08:22,512 ERROR ❌ Firebase token exchange failed
+2025-09-10 20:08:22,512 ERROR ❌ Waylo backend authentication failed
+2025-09-10 20:11:27,684 INFO Received signal 15, shutting down gracefully...
+2025-09-10 20:11:27,694 INFO ✅ BLE advertisement unregistered
+2025-09-10 20:11:27,695 INFO ✅ BLE server shutdown complete
+2025-09-10 20:11:33,519 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 20:11:34,702 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 20:11:34,718 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:11:34,718 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:11:34,719 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 20:11:34,719 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:11:34,719 INFO 🔐 Token Characteristic initialized
+2025-09-10 20:11:34,719 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 20:11:34,720 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 20:11:34,720 INFO 🔍 About to call RegisterApplication...
+2025-09-10 20:11:34,720 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 20:11:34,720 INFO 🔄 Starting main event loop...
+2025-09-10 20:11:34,727 INFO GetManagedObjects called
+2025-09-10 20:11:34,733 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 20:11:34,733 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:11:34,733 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 20:11:34,734 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 20:11:34,752 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 20:11:34,752 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 20:11:34,752 INFO 🔐 Device name: Wailo
+2025-09-10 20:11:34,753 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:11:34,753 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:11:34,753 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 20:11:47,390 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:11:47,392 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:11:47,393 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:11:47,394 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 20:11:56,663 INFO 🔐 Received Firebase custom token from iOS
+2025-09-10 20:11:56,665 INFO Token length: 192 characters
+2025-09-10 20:11:57,001 WARNING ⚠️ Firebase service account key is placeholder - authentication disabled
+2025-09-10 20:11:59,489 ERROR Token exchange failed: 400 - {
+  "error": {
+    "code": 400,
+    "message": "API key not valid. Please pass a valid API key.",
+    "errors": [
+      {
+        "message": "API key not valid. Please pass a valid API key.",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "identitytoolkit.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key not valid. Please pass a valid API key."
+      }
+    ]
+  }
+}
+
+2025-09-10 20:11:59,491 ERROR ❌ Firebase token exchange failed
+2025-09-10 20:11:59,492 ERROR ❌ Waylo backend authentication failed
+2025-09-10 20:16:34,755 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-10 20:16:34,774 INFO ✅ BLE advertisement unregistered
+2025-09-10 20:16:34,774 INFO ✅ BLE server shutdown complete
+2025-09-10 20:19:56,613 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 20:19:57,788 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 20:19:57,794 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:19:57,794 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:19:57,794 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 20:19:57,794 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:19:57,795 INFO 🔐 Token Characteristic initialized
+2025-09-10 20:19:57,795 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 20:19:57,795 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 20:19:57,795 INFO 🔍 About to call RegisterApplication...
+2025-09-10 20:19:57,795 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 20:19:57,795 INFO 🔄 Starting main event loop...
+2025-09-10 20:19:57,798 INFO GetManagedObjects called
+2025-09-10 20:19:57,801 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 20:19:57,802 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:19:57,803 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 20:19:57,803 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 20:19:57,819 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 20:19:57,819 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 20:19:57,819 INFO 🔐 Device name: Wailo
+2025-09-10 20:19:57,819 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:19:57,820 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:19:57,820 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 20:20:31,285 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:20:31,285 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:20:31,285 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:20:31,285 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 20:20:47,427 INFO 🔐 Received Firebase custom token from iOS
+2025-09-10 20:20:47,428 INFO Token length: 192 characters
+2025-09-10 20:20:47,428 INFO 🔐 TOKEN RECEIVED SUCCESSFULLY!
+2025-09-10 20:20:47,428 INFO 🔐 Token length: 192 characters
+2025-09-10 20:20:47,428 INFO 🔐 Token preview: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkI...
+2025-09-10 20:20:47,428 INFO ✅ Token saved to received_firebase_token.txt
+2025-09-10 20:20:47,758 WARNING ⚠️ Firebase service account key is placeholder - authentication disabled
+2025-09-10 20:20:54,526 ERROR Token exchange failed: 400 - {
+  "error": {
+    "code": 400,
+    "message": "API key not valid. Please pass a valid API key.",
+    "errors": [
+      {
+        "message": "API key not valid. Please pass a valid API key.",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "identitytoolkit.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key not valid. Please pass a valid API key."
+      }
+    ]
+  }
+}
+
+2025-09-10 20:20:54,526 WARNING ⚠️ Firebase token exchange failed - but token was received successfully
+2025-09-10 20:20:54,526 WARNING ⚠️ This is expected if Firebase API key is not configured
+2025-09-10 20:20:54,526 INFO 🔄 Token received successfully - shutting down BLE server...
+2025-09-10 20:20:54,527 INFO ✅ Handoff marked as complete with token received
+2025-09-10 20:20:56,542 INFO ✅ BLE advertisement unregistered
+2025-09-10 20:20:56,543 INFO ✅ BLE server shutdown complete
+2025-09-10 20:44:55,136 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 20:44:56,318 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 20:44:56,332 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:44:56,333 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:44:56,333 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 20:44:56,333 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:44:56,334 INFO 🔐 Token Characteristic initialized
+2025-09-10 20:44:56,334 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 20:44:56,334 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 20:44:56,334 INFO 🔍 About to call RegisterApplication...
+2025-09-10 20:44:56,335 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 20:44:56,335 INFO 🔄 Starting main event loop...
+2025-09-10 20:44:56,339 INFO GetManagedObjects called
+2025-09-10 20:44:56,340 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 20:44:56,340 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:44:56,341 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 20:44:56,341 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 20:44:56,350 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 20:44:56,350 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 20:44:56,350 INFO 🔐 Device name: Wailo
+2025-09-10 20:44:56,351 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:44:56,351 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:44:56,351 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 20:45:05,124 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:45:05,125 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:45:05,126 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:45:05,127 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 20:47:53,439 INFO Received signal 15, shutting down gracefully...
+2025-09-10 20:47:53,452 INFO ✅ BLE advertisement unregistered
+2025-09-10 20:47:53,453 INFO ✅ BLE server shutdown complete
+2025-09-10 20:47:59,489 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 20:48:00,708 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 20:48:00,720 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:48:00,721 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:48:00,721 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 20:48:00,722 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:48:00,722 INFO 🔐 Token Characteristic initialized
+2025-09-10 20:48:00,722 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 20:48:00,722 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 20:48:00,723 INFO 🔍 About to call RegisterApplication...
+2025-09-10 20:48:00,723 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 20:48:00,723 INFO 🔄 Starting main event loop...
+2025-09-10 20:48:00,728 INFO GetManagedObjects called
+2025-09-10 20:48:00,733 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 20:48:00,733 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:48:00,734 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 20:48:00,734 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 20:48:00,753 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 20:48:00,753 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 20:48:00,753 INFO 🔐 Device name: Wailo
+2025-09-10 20:48:00,753 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:48:00,754 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:48:00,754 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 20:48:41,727 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:48:41,729 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:48:41,729 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:48:41,730 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 20:49:42,643 INFO Received signal 15, shutting down gracefully...
+2025-09-10 20:49:42,658 INFO ✅ BLE advertisement unregistered
+2025-09-10 20:49:42,659 INFO ✅ BLE server shutdown complete
+2025-09-10 20:49:48,302 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 20:49:49,518 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 20:49:49,533 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:49:49,534 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:49:49,534 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 20:49:49,535 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:49:49,535 INFO 🔐 Token Characteristic initialized
+2025-09-10 20:49:49,536 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 20:49:49,536 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 20:49:49,537 INFO 🔍 About to call RegisterApplication...
+2025-09-10 20:49:49,538 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 20:49:49,538 INFO 🔄 Starting main event loop...
+2025-09-10 20:49:49,546 INFO GetManagedObjects called
+2025-09-10 20:49:49,551 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 20:49:49,551 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:49:49,552 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 20:49:49,552 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 20:49:49,570 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 20:49:49,571 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 20:49:49,571 INFO 🔐 Device name: Wailo
+2025-09-10 20:49:49,571 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:49:49,571 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:49:49,571 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 20:50:27,900 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:50:27,901 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:50:27,902 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:50:27,902 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 20:54:49,572 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-10 20:54:49,585 INFO ✅ BLE advertisement unregistered
+2025-09-10 20:54:49,586 INFO ✅ BLE server shutdown complete
+2025-09-10 20:55:08,046 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 20:55:09,243 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 20:55:09,256 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:55:09,257 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:55:09,257 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 20:55:09,257 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:55:09,257 INFO 🔐 Token Characteristic initialized
+2025-09-10 20:55:09,257 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 20:55:09,257 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 20:55:09,257 INFO 🔍 About to call RegisterApplication...
+2025-09-10 20:55:09,257 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 20:55:09,257 INFO 🔄 Starting main event loop...
+2025-09-10 20:55:09,259 INFO GetManagedObjects called
+2025-09-10 20:55:09,261 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 20:55:09,262 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:55:09,262 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 20:55:09,262 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 20:55:09,272 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 20:55:09,273 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 20:55:09,274 INFO 🔐 Device name: Wailo
+2025-09-10 20:55:09,274 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 20:55:09,274 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 20:55:09,275 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 20:55:11,616 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 20:55:11,617 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:55:11,618 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 20:55:11,618 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 21:00:09,277 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-10 21:00:09,291 INFO ✅ BLE advertisement unregistered
+2025-09-10 21:00:09,292 INFO ✅ BLE server shutdown complete
+2025-09-10 21:03:51,171 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:03:52,409 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 21:03:52,423 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:03:52,424 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:03:52,424 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 21:03:52,424 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:03:52,425 INFO 🔐 Token Characteristic initialized
+2025-09-10 21:03:52,425 INFO 📱 iOS App can now send Firebase custom tokens (chunked)
+2025-09-10 21:03:52,426 INFO 🔧 Supports both write and write-without-response modes
+2025-09-10 21:03:52,426 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 21:03:52,427 INFO 🔍 About to call RegisterApplication...
+2025-09-10 21:03:52,427 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 21:03:52,427 INFO 🔄 Starting main event loop...
+2025-09-10 21:03:52,433 INFO GetManagedObjects called
+2025-09-10 21:03:52,438 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 21:03:52,438 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:03:52,439 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 21:03:52,439 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 21:03:52,461 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 21:03:52,462 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 21:03:52,462 INFO 🔐 Device name: Wailo
+2025-09-10 21:03:52,462 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:03:52,463 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:03:52,463 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 21:05:31,187 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:05:31,188 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:05:31,188 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:05:31,189 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 21:05:43,577 INFO 🔐 Received chunk: 3 bytes
+2025-09-10 21:05:43,577 INFO 🔐 Chunk 1 received (no total count)
+2025-09-10 21:05:43,639 INFO 🔐 Received chunk: 135 bytes
+2025-09-10 21:05:43,639 INFO 🔐 Chunk 2 received (no total count)
+2025-09-10 21:05:43,817 INFO 🔐 Received chunk: 57 bytes
+2025-09-10 21:05:43,818 INFO 🔐 Chunk 3 received (no total count)
+2025-09-10 21:05:43,967 INFO 🔐 Received chunk: 7 bytes
+2025-09-10 21:05:43,967 INFO 🔐 Chunk 4 received (no total count)
+2025-09-10 21:07:31,113 INFO Received signal 15, shutting down gracefully...
+2025-09-10 21:07:31,128 INFO ✅ BLE advertisement unregistered
+2025-09-10 21:07:31,129 INFO ✅ BLE server shutdown complete
+2025-09-10 21:07:31,495 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:07:32,665 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 21:07:32,680 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:07:32,681 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:07:32,681 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 21:07:32,682 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:07:32,682 INFO 🔐 Token Characteristic initialized
+2025-09-10 21:07:32,682 INFO 📱 iOS App can now send Firebase custom tokens (chunked)
+2025-09-10 21:07:32,683 INFO 🔧 Supports both write and write-without-response modes
+2025-09-10 21:07:32,683 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 21:07:32,683 INFO 🔍 About to call RegisterApplication...
+2025-09-10 21:07:32,684 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 21:07:32,684 INFO 🔄 Starting main event loop...
+2025-09-10 21:07:32,688 INFO GetManagedObjects called
+2025-09-10 21:07:32,691 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 21:07:32,691 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:07:32,691 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 21:07:32,691 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 21:07:32,705 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 21:07:32,705 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 21:07:32,705 INFO 🔐 Device name: Wailo
+2025-09-10 21:07:32,705 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:07:32,705 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:07:32,705 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 21:08:18,740 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:08:18,741 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:08:18,742 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:08:18,742 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 21:08:45,051 INFO 🔐 Received chunk: 3 bytes
+2025-09-10 21:08:45,061 INFO 🔐 Chunk 1 received (no total count)
+2025-09-10 21:08:45,143 INFO 🔐 Received chunk: 135 bytes
+2025-09-10 21:08:45,143 INFO 🔐 Chunk 2 received (no total count)
+2025-09-10 21:08:45,291 INFO 🔐 Received chunk: 57 bytes
+2025-09-10 21:08:45,292 INFO 🔐 Chunk 3 received (no total count)
+2025-09-10 21:08:45,441 INFO 🔐 Received chunk: 7 bytes
+2025-09-10 21:08:45,441 INFO 🔐 Chunk 4 received (no total count)
+2025-09-10 21:09:10,044 INFO Received signal 15, shutting down gracefully...
+2025-09-10 21:09:10,058 INFO ✅ BLE advertisement unregistered
+2025-09-10 21:09:10,058 INFO ✅ BLE server shutdown complete
+2025-09-10 21:09:10,377 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:09:11,614 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 21:09:11,620 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:09:11,620 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:09:11,620 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 21:09:11,620 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:09:11,620 INFO 🔐 Token Characteristic initialized
+2025-09-10 21:09:11,621 INFO 📱 iOS App can now send Firebase custom tokens (chunked)
+2025-09-10 21:09:11,621 INFO 🔧 Supports both write and write-without-response modes
+2025-09-10 21:09:11,621 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 21:09:11,621 INFO 🔍 About to call RegisterApplication...
+2025-09-10 21:09:11,621 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 21:09:11,621 INFO 🔄 Starting main event loop...
+2025-09-10 21:09:11,624 INFO GetManagedObjects called
+2025-09-10 21:09:11,627 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 21:09:11,627 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:09:11,627 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 21:09:11,627 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 21:09:11,639 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 21:09:11,639 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 21:09:11,640 INFO 🔐 Device name: Wailo
+2025-09-10 21:09:11,640 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:09:11,640 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:09:11,640 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 21:10:34,330 INFO Received signal 15, shutting down gracefully...
+2025-09-10 21:10:34,335 INFO ✅ BLE advertisement unregistered
+2025-09-10 21:10:34,336 INFO ✅ BLE server shutdown complete
+2025-09-10 21:10:34,602 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:10:35,791 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 21:10:35,806 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:10:35,806 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:10:35,807 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 21:10:35,807 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:10:35,807 INFO 🔐 Token Characteristic initialized
+2025-09-10 21:10:35,808 INFO 📱 iOS App can now send Firebase custom tokens (chunked)
+2025-09-10 21:10:35,808 INFO 🔧 Supports both write and write-without-response modes
+2025-09-10 21:10:35,808 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 21:10:35,808 INFO 🔍 About to call RegisterApplication...
+2025-09-10 21:10:35,809 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 21:10:35,809 INFO 🔄 Starting main event loop...
+2025-09-10 21:10:35,815 INFO GetManagedObjects called
+2025-09-10 21:10:35,818 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 21:10:35,819 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:10:35,819 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 21:10:35,819 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 21:10:35,830 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 21:10:35,830 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 21:10:35,831 INFO 🔐 Device name: Wailo
+2025-09-10 21:10:35,831 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:10:35,831 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:10:35,832 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 21:13:57,817 INFO Received signal 15, shutting down gracefully...
+2025-09-10 21:13:57,831 INFO ✅ BLE advertisement unregistered
+2025-09-10 21:13:57,831 INFO ✅ BLE server shutdown complete
+2025-09-10 21:13:58,261 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:13:59,468 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 21:13:59,483 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:13:59,484 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:13:59,484 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 21:13:59,484 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:13:59,485 INFO 🔐 Token Characteristic initialized
+2025-09-10 21:13:59,485 INFO 📱 iOS App can now send Firebase custom tokens (chunked)
+2025-09-10 21:13:59,485 INFO 🔧 Supports both write and write-without-response modes
+2025-09-10 21:13:59,485 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 21:13:59,486 INFO 🔍 About to call RegisterApplication...
+2025-09-10 21:13:59,486 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 21:13:59,486 INFO 🔄 Starting main event loop...
+2025-09-10 21:13:59,492 INFO GetManagedObjects called
+2025-09-10 21:13:59,496 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 21:13:59,496 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:13:59,496 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 21:13:59,496 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 21:13:59,516 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 21:13:59,516 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 21:13:59,516 INFO 🔐 Device name: Wailo
+2025-09-10 21:13:59,516 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:13:59,517 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:13:59,517 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 21:18:54,547 INFO Advertisement released
+2025-09-10 21:18:58,771 INFO Received signal 15, shutting down gracefully...
+2025-09-10 21:18:58,777 WARNING UnregisterAdvertisement warning: org.bluez.Error.DoesNotExist: Does Not Exist
+2025-09-10 21:18:58,777 INFO ✅ BLE server shutdown complete
+2025-09-10 21:18:59,031 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:19:00,118 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 21:19:00,126 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:19:00,127 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:19:00,127 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 21:19:00,127 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:19:00,128 INFO 🔐 Token Characteristic initialized
+2025-09-10 21:19:00,128 INFO 📱 iOS App can now send Firebase custom tokens (chunked)
+2025-09-10 21:19:00,128 INFO 🔧 Supports both write and write-without-response modes
+2025-09-10 21:19:00,128 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 21:19:00,129 INFO 🔍 About to call RegisterApplication...
+2025-09-10 21:19:00,129 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 21:19:00,129 INFO 🔄 Starting main event loop...
+2025-09-10 21:19:00,134 INFO GetManagedObjects called
+2025-09-10 21:19:00,138 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 21:19:00,138 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:19:00,139 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 21:19:00,139 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 21:19:00,154 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 21:19:00,155 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 21:19:00,155 INFO 🔐 Device name: Wailo
+2025-09-10 21:19:00,155 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:19:00,155 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:19:00,155 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 21:22:38,647 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:22:38,648 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:22:38,648 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:22:38,648 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 21:22:45,277 INFO 🔐 Received chunk: 3 bytes
+2025-09-10 21:22:45,278 INFO 🔐 Small chunk detected (3 bytes), trying to parse as header
+2025-09-10 21:22:45,278 INFO 🔐 Chunk content: b'{"t'
+2025-09-10 21:22:45,287 INFO 🔐 Not a header chunk: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+2025-09-10 21:22:45,288 INFO 🔐 Chunk 1 received (no total count)
+2025-09-10 21:22:45,339 INFO 🔐 Received chunk: 135 bytes
+2025-09-10 21:22:45,340 INFO 🔐 Chunk 2 received (no total count)
+2025-09-10 21:22:45,488 INFO 🔐 Received chunk: 57 bytes
+2025-09-10 21:22:45,488 INFO 🔐 Chunk 3 received (no total count)
+2025-09-10 21:22:45,637 INFO 🔐 Received chunk: 7 bytes
+2025-09-10 21:22:45,638 INFO 🔐 Small chunk detected (7 bytes), trying to parse as header
+2025-09-10 21:22:45,638 INFO 🔐 Chunk content: b'__EOF__'
+2025-09-10 21:22:45,639 INFO 🔐 Not a header chunk: Incorrect padding
+2025-09-10 21:22:45,639 INFO 🔐 Chunk 4 received (no total count)
+2025-09-10 21:24:00,156 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-10 21:24:00,190 INFO ✅ BLE advertisement unregistered
+2025-09-10 21:24:00,190 INFO ✅ BLE server shutdown complete
+2025-09-10 21:35:52,347 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:35:53,523 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 21:35:53,536 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:35:53,537 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:35:53,537 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 21:35:53,537 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:35:53,538 INFO 🔐 Token Characteristic initialized
+2025-09-10 21:35:53,538 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 21:35:53,538 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 21:35:53,539 INFO 🔍 About to call RegisterApplication...
+2025-09-10 21:35:53,539 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 21:35:53,539 INFO 🔄 Starting main event loop...
+2025-09-10 21:35:53,545 INFO GetManagedObjects called
+2025-09-10 21:35:53,550 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 21:35:53,551 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:35:53,551 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 21:35:53,552 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 21:35:53,572 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 21:35:53,573 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 21:35:53,573 INFO 🔐 Device name: Wailo
+2025-09-10 21:35:53,573 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:35:53,573 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:35:53,573 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 21:36:26,755 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:36:26,756 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:36:26,756 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:36:26,756 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 21:37:02,215 INFO 🔐 Received chunk: 3 bytes
+2025-09-10 21:37:02,216 INFO 🔐 Small chunk detected (3 bytes), trying to parse as header
+2025-09-10 21:37:02,216 INFO 🔐 Chunk content: '{"t'
+2025-09-10 21:37:02,218 INFO 🔐 Not a header chunk: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+2025-09-10 21:37:02,218 INFO 🔐 Chunk 1 received (total expected: unknown)
+2025-09-10 21:39:37,009 INFO Received signal 15, shutting down gracefully...
+2025-09-10 21:39:37,024 INFO ✅ BLE advertisement unregistered
+2025-09-10 21:39:37,025 INFO ✅ BLE server shutdown complete
+2025-09-10 21:39:37,383 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:39:38,536 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 21:39:38,548 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:39:38,549 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:39:38,549 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 21:39:38,549 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:39:38,549 INFO 🔐 Token Characteristic initialized
+2025-09-10 21:39:38,550 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 21:39:38,550 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 21:39:38,550 INFO 🔍 About to call RegisterApplication...
+2025-09-10 21:39:38,550 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 21:39:38,551 INFO 🔄 Starting main event loop...
+2025-09-10 21:39:38,556 INFO GetManagedObjects called
+2025-09-10 21:39:38,559 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 21:39:38,560 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:39:38,560 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 21:39:38,560 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 21:39:38,573 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 21:39:38,573 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 21:39:38,574 INFO 🔐 Device name: Wailo
+2025-09-10 21:39:38,574 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:39:38,574 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:39:38,574 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 21:40:49,141 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:40:49,141 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:40:49,141 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:40:49,142 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 21:42:51,263 INFO Received signal 15, shutting down gracefully...
+2025-09-10 21:42:51,268 INFO ✅ BLE advertisement unregistered
+2025-09-10 21:42:51,268 INFO ✅ BLE server shutdown complete
+2025-09-10 21:42:51,667 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:42:52,837 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 21:42:52,852 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:42:52,853 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:42:52,853 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 21:42:52,854 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:42:52,854 INFO 🔐 Token Characteristic initialized
+2025-09-10 21:42:52,854 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 21:42:52,854 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 21:42:52,855 INFO 🔍 About to call RegisterApplication...
+2025-09-10 21:42:52,855 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 21:42:52,855 INFO 🔄 Starting main event loop...
+2025-09-10 21:42:52,861 INFO GetManagedObjects called
+2025-09-10 21:42:52,865 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 21:42:52,865 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:42:52,865 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 21:42:52,865 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 21:42:52,885 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 21:42:52,885 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 21:42:52,885 INFO 🔐 Device name: Wailo
+2025-09-10 21:42:52,885 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:42:52,885 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:42:52,885 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 21:43:01,683 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:43:01,684 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:43:01,684 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:43:01,684 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 21:43:14,013 INFO 🔐 Received chunk: 3 bytes
+2025-09-10 21:43:14,014 INFO 🔐 Small chunk detected (3 bytes), trying to parse as header
+2025-09-10 21:43:14,014 INFO 🔐 Chunk content: '{"t'
+2025-09-10 21:43:14,028 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+2025-09-10 21:43:14,028 INFO 🔐 Chunk 1 received (total expected: unknown)
+2025-09-10 21:47:52,886 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-10 21:47:52,899 INFO ✅ BLE advertisement unregistered
+2025-09-10 21:47:52,900 INFO ✅ BLE server shutdown complete
+2025-09-10 21:54:33,676 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:54:34,849 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 21:54:34,867 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:54:34,868 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:54:34,868 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 21:54:34,869 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:54:34,869 INFO 🔐 Token Characteristic initialized
+2025-09-10 21:54:34,870 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 21:54:34,870 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 21:54:34,870 INFO 🔍 About to call RegisterApplication...
+2025-09-10 21:54:34,871 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 21:54:34,871 INFO 🔄 Starting main event loop...
+2025-09-10 21:54:34,877 INFO GetManagedObjects called
+2025-09-10 21:54:34,881 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 21:54:34,881 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:54:34,882 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 21:54:34,882 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 21:54:34,900 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 21:54:34,901 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 21:54:34,901 INFO 🔐 Device name: Wailo
+2025-09-10 21:54:34,901 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:54:34,902 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:54:34,902 INFO 📖 iOS App should read MAC address to verify device
+2025-09-10 21:55:15,800 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:55:15,800 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:55:15,801 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:55:15,801 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-10 21:55:25,970 INFO 🔐 Received chunk: 27 bytes
+2025-09-10 21:55:25,971 INFO 🔐 Chunk 1 received (total expected: unknown)
+2025-09-10 21:55:59,732 INFO Received signal 15, shutting down gracefully...
+2025-09-10 21:55:59,765 INFO ✅ BLE advertisement unregistered
+2025-09-10 21:55:59,766 INFO ✅ BLE server shutdown complete
+2025-09-10 21:56:04,203 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:56:04,217 ERROR Failed to configure Bluetooth adapter: Command '['bluetoothctl', 'power', 'on']' returned non-zero exit status 1.
+2025-09-10 21:56:04,217 ERROR ❌ Failed to setup Bluetooth adapter
+2025-09-10 21:56:53,430 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:56:53,440 ERROR Failed to configure Bluetooth adapter: Command '['bluetoothctl', 'power', 'on']' returned non-zero exit status 1.
+2025-09-10 21:56:53,441 ERROR ❌ Failed to setup Bluetooth adapter
+2025-09-10 21:57:09,785 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-10 21:57:10,873 INFO Bluetooth adapter configured for BLE advertising
+2025-09-10 21:57:10,879 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-10 21:57:10,880 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-10 21:57:10,880 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-10 21:57:10,880 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:57:10,880 INFO 🔐 Token Characteristic initialized
+2025-09-10 21:57:10,881 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-10 21:57:10,881 INFO 🔧 Registering Wailo GATT application...
+2025-09-10 21:57:10,881 INFO 🔍 About to call RegisterApplication...
+2025-09-10 21:57:10,881 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-10 21:57:10,881 INFO 🔄 Starting main event loop...
+2025-09-10 21:57:10,885 INFO GetManagedObjects called
+2025-09-10 21:57:10,887 INFO ✅ Wailo GATT application registered successfully!
+2025-09-10 21:57:10,887 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:57:10,888 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-10 21:57:10,888 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-10 21:57:10,900 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-10 21:57:10,901 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-10 21:57:10,901 INFO 🔐 Device name: Wailo
+2025-09-10 21:57:10,901 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-10 21:57:10,902 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-10 21:57:10,902 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 06:35:48,990 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-15 06:35:48,995 INFO ✅ BLE advertisement unregistered
+2025-09-15 06:35:48,995 INFO ✅ BLE server shutdown complete
+2025-09-15 06:50:40,340 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 06:50:41,434 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 06:50:41,444 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 06:50:41,445 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 06:50:41,446 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 06:50:41,446 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 06:50:41,446 INFO 🔐 Token Characteristic initialized
+2025-09-15 06:50:41,446 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 06:50:41,447 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 06:50:41,447 INFO 🔍 About to call RegisterApplication...
+2025-09-15 06:50:41,447 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 06:50:41,447 INFO 🔄 Starting main event loop...
+2025-09-15 06:50:41,454 INFO GetManagedObjects called
+2025-09-15 06:50:41,459 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 06:50:41,459 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 06:50:41,462 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 06:50:41,462 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 06:50:41,479 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 06:50:41,480 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 06:50:41,480 INFO 🔐 Device name: Wailo
+2025-09-15 06:50:41,480 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 06:50:41,481 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 06:50:41,481 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 06:50:49,247 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 06:50:49,249 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 06:50:49,249 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-15 06:50:49,250 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-15 06:51:09,559 INFO 🔐 Received chunk: 27 bytes
+2025-09-15 06:51:09,560 INFO 🔐 Chunk 1 received (total expected: unknown)
+2025-09-15 06:55:41,482 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-15 06:55:41,503 INFO ✅ BLE advertisement unregistered
+2025-09-15 06:55:41,505 INFO ✅ BLE server shutdown complete
+2025-09-15 08:31:19,606 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 08:31:20,808 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 08:31:20,821 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 08:31:20,822 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 08:31:20,822 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 08:31:20,822 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:31:20,823 INFO 🔐 Token Characteristic initialized
+2025-09-15 08:31:20,823 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 08:31:20,823 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 08:31:20,824 INFO 🔍 About to call RegisterApplication...
+2025-09-15 08:31:20,824 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 08:31:20,824 INFO 🔄 Starting main event loop...
+2025-09-15 08:31:20,829 INFO GetManagedObjects called
+2025-09-15 08:31:20,834 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 08:31:20,834 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:31:20,835 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 08:31:20,836 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 08:31:20,850 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 08:31:20,858 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 08:31:20,858 INFO 🔐 Device name: Wailo
+2025-09-15 08:31:20,858 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:31:20,858 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:31:20,859 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 08:31:27,012 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 08:31:27,013 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 08:31:27,013 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-15 08:31:27,013 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-15 08:31:37,813 INFO 🔐 Received chunk: 27 bytes
+2025-09-15 08:31:37,814 INFO 🔐 Chunk 1 received (total expected: unknown)
+2025-09-15 08:32:16,433 INFO Received signal 15, shutting down gracefully...
+2025-09-15 08:32:16,445 INFO ✅ BLE advertisement unregistered
+2025-09-15 08:32:16,446 INFO ✅ BLE server shutdown complete
+2025-09-15 08:32:16,718 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 08:32:17,948 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 08:32:17,961 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 08:32:17,961 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 08:32:17,962 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 08:32:17,962 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:32:17,962 INFO 🔐 Token Characteristic initialized
+2025-09-15 08:32:17,963 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 08:32:17,963 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 08:32:17,963 INFO 🔍 About to call RegisterApplication...
+2025-09-15 08:32:17,963 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 08:32:17,964 INFO 🔄 Starting main event loop...
+2025-09-15 08:32:17,969 INFO GetManagedObjects called
+2025-09-15 08:32:17,974 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 08:32:17,974 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:32:17,975 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 08:32:17,975 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 08:32:17,998 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 08:32:17,998 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 08:32:17,998 INFO 🔐 Device name: Wailo
+2025-09-15 08:32:17,999 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:32:17,999 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:32:17,999 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 08:33:12,557 INFO Received signal 15, shutting down gracefully...
+2025-09-15 08:33:12,572 INFO ✅ BLE advertisement unregistered
+2025-09-15 08:33:12,573 INFO ✅ BLE server shutdown complete
+2025-09-15 08:33:13,007 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 08:33:14,123 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 08:33:14,137 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 08:33:14,137 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 08:33:14,138 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 08:33:14,138 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:33:14,138 INFO 🔐 Token Characteristic initialized
+2025-09-15 08:33:14,139 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 08:33:14,139 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 08:33:14,139 INFO 🔍 About to call RegisterApplication...
+2025-09-15 08:33:14,140 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 08:33:14,140 INFO 🔄 Starting main event loop...
+2025-09-15 08:33:14,144 INFO GetManagedObjects called
+2025-09-15 08:33:14,146 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 08:33:14,147 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:33:14,147 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 08:33:14,148 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 08:33:14,167 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 08:33:14,168 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 08:33:14,168 INFO 🔐 Device name: Wailo
+2025-09-15 08:33:14,168 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:33:14,169 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:33:14,169 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 08:38:14,170 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-15 08:38:14,185 INFO ✅ BLE advertisement unregistered
+2025-09-15 08:38:14,186 INFO ✅ BLE server shutdown complete
+2025-09-15 08:39:05,148 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 08:39:06,322 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 08:39:06,330 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 08:39:06,331 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 08:39:06,331 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 08:39:06,331 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:39:06,331 INFO 🔐 Token Characteristic initialized
+2025-09-15 08:39:06,331 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 08:39:06,331 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 08:39:06,331 INFO 🔍 About to call RegisterApplication...
+2025-09-15 08:39:06,331 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 08:39:06,331 INFO 🔄 Starting main event loop...
+2025-09-15 08:39:06,334 INFO GetManagedObjects called
+2025-09-15 08:39:06,339 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 08:39:06,339 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:39:06,340 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 08:39:06,340 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 08:39:06,352 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 08:39:06,353 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 08:39:06,353 INFO 🔐 Device name: Wailo
+2025-09-15 08:39:06,353 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:39:06,353 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:39:06,353 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 08:42:14,132 INFO Received signal 15, shutting down gracefully...
+2025-09-15 08:42:14,141 INFO ✅ BLE advertisement unregistered
+2025-09-15 08:42:14,142 INFO ✅ BLE server shutdown complete
+2025-09-15 08:42:14,430 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 08:42:15,616 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 08:42:15,631 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 08:42:15,632 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 08:42:15,633 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 08:42:15,633 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:42:15,633 INFO 🔐 Token Characteristic initialized
+2025-09-15 08:42:15,633 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 08:42:15,634 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 08:42:15,634 INFO 🔍 About to call RegisterApplication...
+2025-09-15 08:42:15,634 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 08:42:15,635 INFO 🔄 Starting main event loop...
+2025-09-15 08:42:15,640 INFO GetManagedObjects called
+2025-09-15 08:42:15,642 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 08:42:15,643 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:42:15,644 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 08:42:15,644 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 08:42:15,658 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 08:42:15,659 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 08:42:15,659 INFO 🔐 Device name: Wailo
+2025-09-15 08:42:15,659 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:42:15,659 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:42:15,659 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 08:47:15,660 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-15 08:47:15,677 INFO ✅ BLE advertisement unregistered
+2025-09-15 08:47:15,678 INFO ✅ BLE server shutdown complete
+2025-09-15 08:47:19,274 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 08:47:20,464 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 08:47:20,477 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 08:47:20,478 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 08:47:20,478 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 08:47:20,478 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:47:20,479 INFO 🔐 Token Characteristic initialized
+2025-09-15 08:47:20,479 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 08:47:20,479 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 08:47:20,480 INFO 🔍 About to call RegisterApplication...
+2025-09-15 08:47:20,480 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 08:47:20,480 INFO 🔄 Starting main event loop...
+2025-09-15 08:47:20,485 INFO GetManagedObjects called
+2025-09-15 08:47:20,492 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 08:47:20,492 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:47:20,493 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 08:47:20,493 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 08:47:20,508 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 08:47:20,509 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 08:47:20,509 INFO 🔐 Device name: Wailo
+2025-09-15 08:47:20,509 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:47:20,510 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:47:20,510 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 08:52:19,810 INFO Received signal 15, shutting down gracefully...
+2025-09-15 08:52:19,827 INFO ✅ BLE advertisement unregistered
+2025-09-15 08:52:19,828 INFO ✅ BLE server shutdown complete
+2025-09-15 08:52:20,086 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 08:52:21,310 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 08:52:21,323 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 08:52:21,324 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 08:52:21,324 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 08:52:21,325 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:52:21,325 INFO 🔐 Token Characteristic initialized
+2025-09-15 08:52:21,326 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 08:52:21,326 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 08:52:21,327 INFO 🔍 About to call RegisterApplication...
+2025-09-15 08:52:21,327 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 08:52:21,327 INFO 🔄 Starting main event loop...
+2025-09-15 08:52:21,333 INFO GetManagedObjects called
+2025-09-15 08:52:21,337 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 08:52:21,338 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:52:21,339 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 08:52:21,339 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 08:52:21,357 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 08:52:21,358 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 08:52:21,358 INFO 🔐 Device name: Wailo
+2025-09-15 08:52:21,358 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 08:52:21,358 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 08:52:21,358 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 08:57:21,359 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-15 08:57:21,381 INFO ✅ BLE advertisement unregistered
+2025-09-15 08:57:21,382 INFO ✅ BLE server shutdown complete
+2025-09-15 09:02:21,186 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 09:02:22,400 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 09:02:22,413 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 09:02:22,414 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 09:02:22,414 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 09:02:22,414 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 09:02:22,415 INFO 🔐 Token Characteristic initialized
+2025-09-15 09:02:22,415 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 09:02:22,416 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 09:02:22,416 INFO 🔍 About to call RegisterApplication...
+2025-09-15 09:02:22,416 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 09:02:22,417 INFO 🔄 Starting main event loop...
+2025-09-15 09:02:22,422 INFO GetManagedObjects called
+2025-09-15 09:02:22,427 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 09:02:22,427 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 09:02:22,427 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 09:02:22,428 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 09:02:22,451 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 09:02:22,451 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 09:02:22,451 INFO 🔐 Device name: Wailo
+2025-09-15 09:02:22,451 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 09:02:22,451 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 09:02:22,452 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 09:02:49,958 INFO Received signal 15, shutting down gracefully...
+2025-09-15 09:02:49,972 INFO ✅ BLE advertisement unregistered
+2025-09-15 09:02:49,973 INFO ✅ BLE server shutdown complete
+2025-09-15 09:02:50,111 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 09:02:51,316 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 09:02:51,330 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 09:02:51,331 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 09:02:51,331 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 09:02:51,332 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 09:02:51,332 INFO 🔐 Token Characteristic initialized
+2025-09-15 09:02:51,333 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 09:02:51,333 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 09:02:51,334 INFO 🔍 About to call RegisterApplication...
+2025-09-15 09:02:51,335 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 09:02:51,335 INFO 🔄 Starting main event loop...
+2025-09-15 09:02:51,341 INFO GetManagedObjects called
+2025-09-15 09:02:51,345 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 09:02:51,346 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 09:02:51,347 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 09:02:51,347 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 09:02:51,370 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 09:02:51,371 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 09:02:51,372 INFO 🔐 Device name: Wailo
+2025-09-15 09:02:51,372 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 09:02:51,372 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 09:02:51,373 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 09:05:33,957 INFO Received signal 15, shutting down gracefully...
+2025-09-15 09:05:33,968 INFO ✅ BLE advertisement unregistered
+2025-09-15 09:05:33,969 INFO ✅ BLE server shutdown complete
+2025-09-15 09:05:34,214 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 09:05:35,419 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 09:05:35,429 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 09:05:35,429 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 09:05:35,430 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 09:05:35,430 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 09:05:35,430 INFO 🔐 Token Characteristic initialized
+2025-09-15 09:05:35,430 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 09:05:35,431 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 09:05:35,431 INFO 🔍 About to call RegisterApplication...
+2025-09-15 09:05:35,431 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 09:05:35,431 INFO 🔄 Starting main event loop...
+2025-09-15 09:05:35,437 INFO GetManagedObjects called
+2025-09-15 09:05:35,442 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 09:05:35,442 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 09:05:35,443 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 09:05:35,443 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 09:05:35,468 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 09:05:35,468 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 09:05:35,468 INFO 🔐 Device name: Wailo
+2025-09-15 09:05:35,469 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 09:05:35,469 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 09:05:35,469 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 09:10:35,469 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-15 09:10:35,481 INFO ✅ BLE advertisement unregistered
+2025-09-15 09:10:35,481 INFO ✅ BLE server shutdown complete
+2025-09-15 09:43:56,746 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 09:43:57,935 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 09:43:57,944 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 09:43:57,944 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 09:43:57,944 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 09:43:57,945 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 09:43:57,945 INFO 🔐 Token Characteristic initialized
+2025-09-15 09:43:57,945 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 09:43:57,945 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 09:43:57,945 INFO 🔍 About to call RegisterApplication...
+2025-09-15 09:43:57,945 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 09:43:57,945 INFO 🔄 Starting main event loop...
+2025-09-15 09:43:57,948 INFO GetManagedObjects called
+2025-09-15 09:43:57,951 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 09:43:57,952 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 09:43:57,952 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 09:43:57,953 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 09:43:57,968 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 09:43:57,968 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 09:43:57,968 INFO 🔐 Device name: Wailo
+2025-09-15 09:43:57,968 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 09:43:57,969 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 09:43:57,969 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 09:44:46,758 INFO Received signal 15, shutting down gracefully...
+2025-09-15 09:44:46,773 INFO ✅ BLE advertisement unregistered
+2025-09-15 09:44:46,774 INFO ✅ BLE server shutdown complete
+2025-09-15 09:56:06,970 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 09:56:08,067 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 09:56:08,074 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 09:56:08,074 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 09:56:08,075 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 09:56:08,075 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 09:56:08,075 INFO 🔐 Token Characteristic initialized
+2025-09-15 09:56:08,075 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 09:56:08,076 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 09:56:08,076 INFO 🔍 About to call RegisterApplication...
+2025-09-15 09:56:08,076 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 09:56:08,077 INFO 🔄 Starting main event loop...
+2025-09-15 09:56:08,083 INFO GetManagedObjects called
+2025-09-15 09:56:08,086 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 09:56:08,086 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 09:56:08,086 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 09:56:08,087 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 09:56:08,098 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 09:56:08,099 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 09:56:08,099 INFO 🔐 Device name: Wailo
+2025-09-15 09:56:08,099 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 09:56:08,099 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 09:56:08,100 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 09:58:40,946 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 09:58:40,948 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 09:58:40,948 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-15 09:58:40,949 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-15 09:58:54,987 INFO 🔐 Received chunk: 27 bytes
+2025-09-15 09:58:54,988 INFO 🔐 Chunk 1 received (total expected: unknown)
+2025-09-15 09:58:54,989 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 09:58:54,990 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 09:58:54,990 INFO 🔐 Chunk content: 'eyJhbGciOiJSUzI1Ni'
+2025-09-15 09:58:55,011 INFO 🔐 Chunk 2 received (total expected: unknown)
+2025-09-15 09:58:55,077 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 09:58:55,078 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 09:58:55,079 INFO 🔐 Chunk content: 'IsInR5cCI6IkpXVCJ9'
+2025-09-15 09:58:55,080 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xc2 in position 1: invalid continuation byte
+2025-09-15 09:58:55,081 INFO 🔐 Chunk 3 received (total expected: unknown)
+2025-09-15 09:58:55,136 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 09:58:55,137 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 09:58:55,137 INFO 🔐 Chunk content: '.eyJ1c2VyX2lkIjoiV'
+2025-09-15 09:58:55,138 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (17) cannot be 1 more than a multiple of 4
+2025-09-15 09:58:55,138 INFO 🔐 Chunk 4 received (total expected: unknown)
+2025-09-15 09:58:55,196 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 09:58:55,196 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 09:58:55,196 INFO 🔐 Chunk content: 'BujWTtMuLNtA6eihoE'
+2025-09-15 09:58:55,197 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xe8 in position 1: invalid continuation byte
+2025-09-15 09:58:55,197 INFO 🔐 Chunk 5 received (total expected: unknown)
+2025-09-15 09:58:55,256 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 09:58:55,256 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 09:58:55,257 INFO 🔐 Chunk content: 'QBKGjR3H3","device'
+2025-09-15 09:58:55,257 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0x86 in position 2: invalid start byte
+2025-09-15 09:58:55,257 INFO 🔐 Chunk 6 received (total expected: unknown)
+2025-09-15 09:58:55,347 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 09:58:55,348 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 09:58:55,348 INFO 🔐 Chunk content: '_id":"FA09CD59-075'
+2025-09-15 09:58:55,349 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-15 09:58:55,350 INFO 🔐 Chunk 7 received (total expected: unknown)
+2025-09-15 09:58:55,406 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 09:58:55,406 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 09:58:55,407 INFO 🔐 Chunk content: '4-ECEC-5BE6-4BD807'
+2025-09-15 09:58:55,407 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xe0 in position 0: invalid continuation byte
+2025-09-15 09:58:55,407 INFO 🔐 Chunk 8 received (total expected: unknown)
+2025-09-15 09:58:55,467 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 09:58:55,469 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 09:58:55,470 INFO 🔐 Chunk content: 'B544E8","exp":1757'
+2025-09-15 09:58:55,471 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-15 09:58:55,472 INFO 🔐 Chunk 9 received (total expected: unknown)
+2025-09-15 09:58:55,526 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 09:58:55,526 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 09:58:55,527 INFO 🔐 Chunk content: '915935,"iat":17579'
+2025-09-15 09:58:55,527 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xf7 in position 0: invalid start byte
+2025-09-15 09:58:55,527 INFO 🔐 Chunk 10 received (total expected: unknown)
+2025-09-15 09:58:55,617 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 09:58:55,618 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 09:58:55,618 INFO 🔐 Chunk content: '12335,"iss":"waylo'
+2025-09-15 09:58:55,619 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-15 09:58:55,620 INFO 🔐 Chunk 11 received (total expected: unknown)
+2025-09-15 09:58:55,675 INFO 🔐 Received chunk: 10 bytes
+2025-09-15 09:58:55,676 INFO 🔐 Small chunk detected (10 bytes), trying to parse as header
+2025-09-15 09:58:55,676 INFO 🔐 Chunk content: '-backend"}'
+2025-09-15 09:58:55,677 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xa7 in position 1: invalid start byte
+2025-09-15 09:58:55,677 INFO 🔐 Chunk 12 received (total expected: unknown)
+2025-09-15 09:58:55,736 INFO 🔐 Received chunk: 7 bytes
+2025-09-15 09:58:55,737 INFO 🔐 Small chunk detected (7 bytes), trying to parse as header
+2025-09-15 09:58:55,738 INFO 🔐 Chunk content: '__EOF__'
+2025-09-15 09:58:55,739 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xe1 in position 1: unexpected end of data
+2025-09-15 09:58:55,740 INFO 🔐 EOF marker received - processing complete token
+2025-09-15 09:58:55,740 INFO 🔐 TOKEN RECEIVED SUCCESSFULLY!
+2025-09-15 09:58:55,741 INFO 🔐 Token length: 217 characters
+2025-09-15 09:58:55,742 INFO 🔐 Token preview: {"type":"token","total":11}eyJhbGciOiJSUzI1NiIsInR...
+2025-09-15 09:58:55,749 INFO ✅ Token saved to received_firebase_token.txt
+2025-09-15 09:58:56,195 WARNING ⚠️ Firebase service account key is placeholder - authentication disabled
+2025-09-15 09:58:59,211 ERROR Token exchange failed: 400 - {
+  "error": {
+    "code": 400,
+    "message": "API key not valid. Please pass a valid API key.",
+    "errors": [
+      {
+        "message": "API key not valid. Please pass a valid API key.",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "identitytoolkit.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key not valid. Please pass a valid API key."
+      }
+    ]
+  }
+}
+
+2025-09-15 09:58:59,211 WARNING ⚠️ Firebase token exchange failed - but token was received successfully
+2025-09-15 09:58:59,211 WARNING ⚠️ This is expected if Firebase API key is not configured
+2025-09-15 09:58:59,211 INFO 🔄 Token received successfully - shutting down BLE server...
+2025-09-15 09:58:59,218 INFO ✅ Handoff marked as complete with token received
+2025-09-15 09:59:01,234 INFO ✅ BLE advertisement unregistered
+2025-09-15 09:59:01,235 INFO ✅ BLE server shutdown complete
+2025-09-15 10:00:04,498 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 10:00:05,687 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 10:00:05,694 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 10:00:05,695 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 10:00:05,695 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 10:00:05,695 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 10:00:05,696 INFO 🔐 Token Characteristic initialized
+2025-09-15 10:00:05,696 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 10:00:05,696 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 10:00:05,696 INFO 🔍 About to call RegisterApplication...
+2025-09-15 10:00:05,697 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 10:00:05,697 INFO 🔄 Starting main event loop...
+2025-09-15 10:00:05,701 INFO GetManagedObjects called
+2025-09-15 10:00:05,705 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 10:00:05,706 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 10:00:05,707 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 10:00:05,707 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 10:00:05,720 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 10:00:05,721 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 10:00:05,721 INFO 🔐 Device name: Wailo
+2025-09-15 10:00:05,721 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 10:00:05,721 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 10:00:05,721 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 10:00:07,827 INFO Received signal 15, shutting down gracefully...
+2025-09-15 10:00:07,839 INFO ✅ BLE advertisement unregistered
+2025-09-15 10:00:07,840 INFO ✅ BLE server shutdown complete
+2025-09-15 10:01:51,324 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 10:01:52,428 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 10:01:52,439 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 10:01:52,440 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 10:01:52,440 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 10:01:52,441 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 10:01:52,441 INFO 🔐 Token Characteristic initialized
+2025-09-15 10:01:52,442 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 10:01:52,442 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 10:01:52,442 INFO 🔍 About to call RegisterApplication...
+2025-09-15 10:01:52,443 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 10:01:52,443 INFO 🔄 Starting main event loop...
+2025-09-15 10:01:52,448 INFO GetManagedObjects called
+2025-09-15 10:01:52,453 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 10:01:52,453 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 10:01:52,454 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 10:01:52,455 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 10:01:52,472 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 10:01:52,473 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 10:01:52,473 INFO 🔐 Device name: Wailo
+2025-09-15 10:01:52,474 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 10:01:52,474 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 10:01:52,475 INFO 📖 iOS App should read MAC address to verify device
+2025-09-15 10:01:54,990 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 10:01:54,991 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 10:01:54,992 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-15 10:01:54,992 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-15 10:02:12,209 INFO 🔐 Received chunk: 27 bytes
+2025-09-15 10:02:12,211 INFO 🔐 Chunk 1 received (total expected: unknown)
+2025-09-15 10:02:12,239 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 10:02:12,240 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 10:02:12,240 INFO 🔐 Chunk content: 'eyJhbGciOiJSUzI1Ni'
+2025-09-15 10:02:12,246 INFO 🔐 Chunk 2 received (total expected: unknown)
+2025-09-15 10:02:12,300 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 10:02:12,301 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 10:02:12,301 INFO 🔐 Chunk content: 'IsInR5cCI6IkpXVCJ9'
+2025-09-15 10:02:12,302 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xc2 in position 1: invalid continuation byte
+2025-09-15 10:02:12,302 INFO 🔐 Chunk 3 received (total expected: unknown)
+2025-09-15 10:02:12,390 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 10:02:12,391 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 10:02:12,392 INFO 🔐 Chunk content: '.eyJ1c2VyX2lkIjoiV'
+2025-09-15 10:02:12,392 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (17) cannot be 1 more than a multiple of 4
+2025-09-15 10:02:12,393 INFO 🔐 Chunk 4 received (total expected: unknown)
+2025-09-15 10:02:12,420 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 10:02:12,420 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 10:02:12,421 INFO 🔐 Chunk content: 'BujWTtMuLNtA6eihoE'
+2025-09-15 10:02:12,421 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xe8 in position 1: invalid continuation byte
+2025-09-15 10:02:12,421 INFO 🔐 Chunk 5 received (total expected: unknown)
+2025-09-15 10:02:12,479 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 10:02:12,480 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 10:02:12,480 INFO 🔐 Chunk content: 'QBKGjR3H3","device'
+2025-09-15 10:02:12,480 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0x86 in position 2: invalid start byte
+2025-09-15 10:02:12,480 INFO 🔐 Chunk 6 received (total expected: unknown)
+2025-09-15 10:02:12,540 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 10:02:12,540 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 10:02:12,540 INFO 🔐 Chunk content: '_id":"FA09CD59-075'
+2025-09-15 10:02:12,540 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-15 10:02:12,540 INFO 🔐 Chunk 7 received (total expected: unknown)
+2025-09-15 10:02:12,630 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 10:02:12,630 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 10:02:12,630 INFO 🔐 Chunk content: '4-ECEC-5BE6-4BD807'
+2025-09-15 10:02:12,630 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xe0 in position 0: invalid continuation byte
+2025-09-15 10:02:12,630 INFO 🔐 Chunk 8 received (total expected: unknown)
+2025-09-15 10:02:12,719 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 10:02:12,720 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 10:02:12,720 INFO 🔐 Chunk content: 'B544E8","exp":1757'
+2025-09-15 10:02:12,720 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-15 10:02:12,720 INFO 🔐 Chunk 9 received (total expected: unknown)
+2025-09-15 10:02:12,780 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 10:02:12,781 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 10:02:12,781 INFO 🔐 Chunk content: '916132,"iat":17579'
+2025-09-15 10:02:12,781 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xf7 in position 0: invalid start byte
+2025-09-15 10:02:12,781 INFO 🔐 Chunk 10 received (total expected: unknown)
+2025-09-15 10:02:12,810 INFO 🔐 Received chunk: 18 bytes
+2025-09-15 10:02:12,810 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-15 10:02:12,810 INFO 🔐 Chunk content: '12532,"iss":"waylo'
+2025-09-15 10:02:12,810 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-15 10:02:12,810 INFO 🔐 Chunk 11 received (total expected: unknown)
+2025-09-15 10:02:12,931 INFO 🔐 Received chunk: 10 bytes
+2025-09-15 10:02:12,932 INFO 🔐 Small chunk detected (10 bytes), trying to parse as header
+2025-09-15 10:02:12,932 INFO 🔐 Chunk content: '-backend"}'
+2025-09-15 10:02:12,932 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xa7 in position 1: invalid start byte
+2025-09-15 10:02:12,933 INFO 🔐 Chunk 12 received (total expected: unknown)
+2025-09-15 10:02:12,959 INFO 🔐 Received chunk: 7 bytes
+2025-09-15 10:02:12,960 INFO 🔐 Small chunk detected (7 bytes), trying to parse as header
+2025-09-15 10:02:12,960 INFO 🔐 Chunk content: '__EOF__'
+2025-09-15 10:02:12,960 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xe1 in position 1: unexpected end of data
+2025-09-15 10:02:12,960 INFO 🔐 EOF marker received - processing complete token
+2025-09-15 10:02:12,960 INFO 🔐 TOKEN RECEIVED SUCCESSFULLY!
+2025-09-15 10:02:12,960 INFO 🔐 Token length: 217 characters
+2025-09-15 10:02:12,960 INFO 🔐 Token preview: {"type":"token","total":11}eyJhbGciOiJSUzI1NiIsInR...
+2025-09-15 10:02:12,961 INFO ✅ Token saved to received_firebase_token.txt
+2025-09-15 10:02:13,254 WARNING ⚠️ Firebase service account key is placeholder - authentication disabled
+2025-09-15 10:02:16,104 ERROR Token exchange failed: 400 - {
+  "error": {
+    "code": 400,
+    "message": "API key not valid. Please pass a valid API key.",
+    "errors": [
+      {
+        "message": "API key not valid. Please pass a valid API key.",
+        "domain": "global",
+        "reason": "badRequest"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "identitytoolkit.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key not valid. Please pass a valid API key."
+      }
+    ]
+  }
+}
+
+2025-09-15 10:02:16,105 WARNING ⚠️ Firebase token exchange failed - but token was received successfully
+2025-09-15 10:02:16,105 WARNING ⚠️ This is expected if Firebase API key is not configured
+2025-09-15 10:02:16,105 INFO 🔄 Token received successfully - shutting down BLE server...
+2025-09-15 10:02:16,105 INFO ✅ Handoff marked as complete with token received
+2025-09-15 10:02:18,120 INFO ✅ BLE advertisement unregistered
+2025-09-15 10:02:18,121 INFO ✅ BLE server shutdown complete
+2025-09-15 17:38:58,206 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 17:38:58,228 ERROR Failed to configure Bluetooth adapter: Command '['bluetoothctl', 'power', 'on']' returned non-zero exit status 1.
+2025-09-15 17:38:58,228 ERROR ❌ Failed to setup Bluetooth adapter
+2025-09-15 17:47:58,474 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 17:47:58,486 ERROR Failed to configure Bluetooth adapter: Command '['bluetoothctl', 'power', 'on']' returned non-zero exit status 1.
+2025-09-15 17:47:58,487 ERROR ❌ Failed to setup Bluetooth adapter
+2025-09-15 17:48:14,628 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-15 17:48:15,726 INFO Bluetooth adapter configured for BLE advertising
+2025-09-15 17:48:15,734 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-15 17:48:15,734 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-15 17:48:15,734 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-15 17:48:15,734 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 17:48:15,735 INFO 🔐 Token Characteristic initialized
+2025-09-15 17:48:15,735 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-15 17:48:15,735 INFO 🔧 Registering Wailo GATT application...
+2025-09-15 17:48:15,735 INFO 🔍 About to call RegisterApplication...
+2025-09-15 17:48:15,735 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-15 17:48:15,736 INFO 🔄 Starting main event loop...
+2025-09-15 17:48:15,741 INFO GetManagedObjects called
+2025-09-15 17:48:15,745 INFO ✅ Wailo GATT application registered successfully!
+2025-09-15 17:48:15,745 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 17:48:15,746 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-15 17:48:15,746 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-15 17:48:15,758 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-15 17:48:15,758 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-15 17:48:15,758 INFO 🔐 Device name: Wailo
+2025-09-15 17:48:15,758 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-15 17:48:15,758 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-15 17:48:15,758 INFO 📖 iOS App should read MAC address to verify device
+2025-09-18 12:02:15,575 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-18 12:02:15,580 INFO ✅ BLE advertisement unregistered
+2025-09-18 12:02:15,580 INFO ✅ BLE server shutdown complete
+2025-09-18 12:14:06,434 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-18 12:14:07,527 INFO Bluetooth adapter configured for BLE advertising
+2025-09-18 12:14:07,536 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:14:07,537 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 12:14:07,538 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-18 12:14:07,538 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 12:14:07,538 INFO 🔐 Token Characteristic initialized
+2025-09-18 12:14:07,539 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-18 12:14:07,539 INFO 🔧 Registering Wailo GATT application...
+2025-09-18 12:14:07,539 INFO 🔍 About to call RegisterApplication...
+2025-09-18 12:14:07,540 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-18 12:14:07,540 INFO 🔄 Starting main event loop...
+2025-09-18 12:14:07,546 INFO GetManagedObjects called
+2025-09-18 12:14:07,549 INFO ✅ Wailo GATT application registered successfully!
+2025-09-18 12:14:07,550 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 12:14:07,550 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-18 12:14:07,550 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-18 12:14:07,568 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-18 12:14:07,568 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-18 12:14:07,569 INFO 🔐 Device name: Wailo
+2025-09-18 12:14:07,569 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 12:14:07,569 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 12:14:07,570 INFO 📖 iOS App should read MAC address to verify device
+2025-09-18 12:14:10,011 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 12:14:10,012 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:14:10,012 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:14:10,013 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-18 12:14:18,292 INFO 🔐 Received chunk: 32 bytes
+2025-09-18 12:14:18,293 INFO 🔐 Chunk 1 received (total expected: unknown)
+2025-09-18 12:14:18,294 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 12:14:18,294 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 12:14:18,295 INFO 🔐 Chunk content: '{"email":"waqarsae'
+2025-09-18 12:14:18,317 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-18 12:14:18,320 INFO 🔐 Chunk 2 received (total expected: unknown)
+2025-09-18 12:14:18,351 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 12:14:18,351 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 12:14:18,351 INFO 🔐 Chunk content: 'ed533@gmail.com","'
+2025-09-18 12:14:18,351 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-18 12:14:18,351 INFO 🔐 Chunk 3 received (total expected: unknown)
+2025-09-18 12:14:18,411 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 12:14:18,411 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 12:14:18,411 INFO 🔐 Chunk content: 'password":"user_pa'
+2025-09-18 12:14:18,412 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xa5 in position 0: invalid start byte
+2025-09-18 12:14:18,412 INFO 🔐 Chunk 4 received (total expected: unknown)
+2025-09-18 12:14:18,501 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 12:14:18,501 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 12:14:18,501 INFO 🔐 Chunk content: 'ssword_placeholder'
+2025-09-18 12:14:18,502 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (17) cannot be 1 more than a multiple of 4
+2025-09-18 12:14:18,502 INFO 🔐 Chunk 5 received (total expected: unknown)
+2025-09-18 12:14:18,563 INFO 🔐 Received chunk: 2 bytes
+2025-09-18 12:14:18,564 INFO 🔐 Small chunk detected (2 bytes), trying to parse as header
+2025-09-18 12:14:18,564 INFO 🔐 Chunk content: '"}'
+2025-09-18 12:14:18,565 INFO 🔐 Chunk 6 received (total expected: unknown)
+2025-09-18 12:14:18,622 INFO 🔐 Received chunk: 7 bytes
+2025-09-18 12:14:18,622 INFO 🔐 Small chunk detected (7 bytes), trying to parse as header
+2025-09-18 12:14:18,623 INFO 🔐 Chunk content: '__EOF__'
+2025-09-18 12:14:18,624 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xe1 in position 1: unexpected end of data
+2025-09-18 12:14:18,624 INFO 🔐 EOF marker received - processing complete token
+2025-09-18 12:14:18,625 INFO 🔐 TOKEN RECEIVED SUCCESSFULLY!
+2025-09-18 12:14:18,625 INFO 🔐 Token length: 106 characters
+2025-09-18 12:14:18,626 INFO 🔐 Token preview: {"type":"credentials","total":5}{"email":"waqarsae...
+2025-09-18 12:14:18,628 INFO ✅ Token saved to received_firebase_token.txt
+2025-09-18 12:14:19,412 INFO ✅ Firebase Admin SDK initialized
+2025-09-18 12:14:20,051 ERROR Token exchange failed: 400 - {
+  "error": {
+    "code": 400,
+    "message": "INVALID_CUSTOM_TOKEN : Invalid assertion format. 3 dot separated segments required.",
+    "errors": [
+      {
+        "message": "INVALID_CUSTOM_TOKEN : Invalid assertion format. 3 dot separated segments required.",
+        "domain": "global",
+        "reason": "invalid"
+      }
+    ]
+  }
+}
+
+2025-09-18 12:14:20,052 WARNING ⚠️ Firebase token exchange failed - but token was received successfully
+2025-09-18 12:14:20,052 WARNING ⚠️ This is expected if Firebase API key is not configured
+2025-09-18 12:14:20,052 INFO 🔄 Token received successfully - shutting down BLE server...
+2025-09-18 12:14:20,053 INFO ✅ Handoff marked as complete with token received
+2025-09-18 12:14:22,074 INFO ✅ BLE advertisement unregistered
+2025-09-18 12:14:22,075 INFO ✅ BLE server shutdown complete
+2025-09-18 12:19:19,926 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-18 12:19:21,122 INFO Bluetooth adapter configured for BLE advertising
+2025-09-18 12:19:21,135 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:19:21,136 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 12:19:21,136 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-18 12:19:21,136 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 12:19:21,137 INFO 🔐 Token Characteristic initialized
+2025-09-18 12:19:21,137 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-18 12:19:21,137 INFO 🔧 Registering Wailo GATT application...
+2025-09-18 12:19:21,137 INFO 🔍 About to call RegisterApplication...
+2025-09-18 12:19:21,138 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-18 12:19:21,138 INFO 🔄 Starting main event loop...
+2025-09-18 12:19:21,143 INFO GetManagedObjects called
+2025-09-18 12:19:21,147 INFO ✅ Wailo GATT application registered successfully!
+2025-09-18 12:19:21,148 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 12:19:21,148 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-18 12:19:21,148 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-18 12:19:21,170 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-18 12:19:21,170 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-18 12:19:21,170 INFO 🔐 Device name: Wailo
+2025-09-18 12:19:21,171 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 12:19:21,171 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 12:19:21,171 INFO 📖 iOS App should read MAC address to verify device
+2025-09-18 12:19:23,487 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 12:19:23,488 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:19:23,489 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:19:23,490 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-18 12:24:21,172 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-18 12:24:21,192 INFO ✅ BLE advertisement unregistered
+2025-09-18 12:24:21,194 INFO ✅ BLE server shutdown complete
+2025-09-18 12:44:44,721 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-18 12:44:45,934 INFO Bluetooth adapter configured for BLE advertising
+2025-09-18 12:44:45,947 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:44:45,948 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 12:44:45,948 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-18 12:44:45,948 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 12:44:45,949 INFO 🔐 Token Characteristic initialized
+2025-09-18 12:44:45,949 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-18 12:44:45,949 INFO 🔧 Registering Wailo GATT application...
+2025-09-18 12:44:45,950 INFO 🔍 About to call RegisterApplication...
+2025-09-18 12:44:45,950 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-18 12:44:45,950 INFO 🔄 Starting main event loop...
+2025-09-18 12:44:45,956 INFO GetManagedObjects called
+2025-09-18 12:44:45,960 INFO ✅ Wailo GATT application registered successfully!
+2025-09-18 12:44:45,960 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 12:44:45,960 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-18 12:44:45,961 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-18 12:44:45,981 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-18 12:44:45,982 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-18 12:44:45,982 INFO 🔐 Device name: Wailo
+2025-09-18 12:44:45,982 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 12:44:45,982 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 12:44:45,982 INFO 📖 iOS App should read MAC address to verify device
+2025-09-18 12:44:48,316 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 12:44:48,317 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:44:48,318 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:44:48,318 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-18 12:49:45,984 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-18 12:49:46,016 INFO ✅ BLE advertisement unregistered
+2025-09-18 12:49:46,017 INFO ✅ BLE server shutdown complete
+2025-09-18 12:54:29,752 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-18 12:54:30,986 INFO Bluetooth adapter configured for BLE advertising
+2025-09-18 12:54:31,013 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:54:31,014 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 12:54:31,015 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-18 12:54:31,015 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 12:54:31,016 INFO 🔐 Token Characteristic initialized
+2025-09-18 12:54:31,016 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-18 12:54:31,016 INFO 🔧 Registering Wailo GATT application...
+2025-09-18 12:54:31,016 INFO 🔍 About to call RegisterApplication...
+2025-09-18 12:54:31,017 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-18 12:54:31,017 INFO 🔄 Starting main event loop...
+2025-09-18 12:54:31,023 INFO GetManagedObjects called
+2025-09-18 12:54:31,027 INFO ✅ Wailo GATT application registered successfully!
+2025-09-18 12:54:31,028 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 12:54:31,029 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-18 12:54:31,029 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-18 12:54:31,061 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-18 12:54:31,064 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-18 12:54:31,065 INFO 🔐 Device name: Wailo
+2025-09-18 12:54:31,065 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 12:54:31,065 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 12:54:31,066 INFO 📖 iOS App should read MAC address to verify device
+2025-09-18 12:54:33,412 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 12:54:33,413 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:54:33,413 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:54:33,414 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-18 12:54:44,154 INFO 🔐 Received chunk: 32 bytes
+2025-09-18 12:54:44,155 INFO 🔐 Chunk 1 received (total expected: unknown)
+2025-09-18 12:54:44,156 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 12:54:44,156 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 12:54:44,157 INFO 🔐 Chunk content: '{"email":"waqarsae'
+2025-09-18 12:54:44,182 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-18 12:54:44,183 INFO 🔐 Chunk 2 received (total expected: unknown)
+2025-09-18 12:54:44,243 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 12:54:44,243 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 12:54:44,244 INFO 🔐 Chunk content: 'ed533@gmail.com","'
+2025-09-18 12:54:44,244 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-18 12:54:44,244 INFO 🔐 Chunk 3 received (total expected: unknown)
+2025-09-18 12:54:44,303 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 12:54:44,304 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 12:54:44,305 INFO 🔐 Chunk content: 'password":"user_en'
+2025-09-18 12:54:44,306 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xa5 in position 0: invalid start byte
+2025-09-18 12:54:44,306 INFO 🔐 Chunk 4 received (total expected: unknown)
+2025-09-18 12:54:44,363 INFO 🔐 Received chunk: 16 bytes
+2025-09-18 12:54:44,363 INFO 🔐 Small chunk detected (16 bytes), trying to parse as header
+2025-09-18 12:54:44,363 INFO 🔐 Chunk content: 'tered_password"}'
+2025-09-18 12:54:44,364 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-18 12:54:44,364 INFO 🔐 Chunk 5 received (total expected: unknown)
+2025-09-18 12:54:44,423 INFO 🔐 Received chunk: 7 bytes
+2025-09-18 12:54:44,424 INFO 🔐 Small chunk detected (7 bytes), trying to parse as header
+2025-09-18 12:54:44,425 INFO 🔐 Chunk content: '__EOF__'
+2025-09-18 12:54:44,425 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xe1 in position 1: unexpected end of data
+2025-09-18 12:54:44,425 INFO 🔐 EOF marker received - processing complete token
+2025-09-18 12:54:44,426 INFO 🔐 TOKEN RECEIVED SUCCESSFULLY!
+2025-09-18 12:54:44,426 INFO 🔐 Token length: 102 characters
+2025-09-18 12:54:44,426 INFO 🔐 Token preview: {"type":"credentials","total":4}{"email":"waqarsae...
+2025-09-18 12:54:44,427 INFO ✅ Token saved to received_firebase_token.txt
+2025-09-18 12:54:44,746 INFO ✅ Firebase Admin SDK initialized
+2025-09-18 12:54:45,295 ERROR Token exchange failed: 400 - {
+  "error": {
+    "code": 400,
+    "message": "INVALID_CUSTOM_TOKEN : Invalid assertion format. 3 dot separated segments required.",
+    "errors": [
+      {
+        "message": "INVALID_CUSTOM_TOKEN : Invalid assertion format. 3 dot separated segments required.",
+        "domain": "global",
+        "reason": "invalid"
+      }
+    ]
+  }
+}
+
+2025-09-18 12:54:45,295 WARNING ⚠️ Firebase token exchange failed - but token was received successfully
+2025-09-18 12:54:45,296 WARNING ⚠️ This is expected if Firebase API key is not configured
+2025-09-18 12:54:45,297 INFO 🔄 Token received successfully - shutting down BLE server...
+2025-09-18 12:54:45,298 INFO ✅ Handoff marked as complete with token received
+2025-09-18 12:54:47,323 INFO ✅ BLE advertisement unregistered
+2025-09-18 12:54:47,325 INFO ✅ BLE server shutdown complete
+2025-09-18 12:59:11,350 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-18 12:59:12,543 INFO Bluetooth adapter configured for BLE advertising
+2025-09-18 12:59:12,557 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:59:12,558 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 12:59:12,558 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-18 12:59:12,558 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 12:59:12,559 INFO 🔐 Token Characteristic initialized
+2025-09-18 12:59:12,559 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-18 12:59:12,559 INFO 🔧 Registering Wailo GATT application...
+2025-09-18 12:59:12,559 INFO 🔍 About to call RegisterApplication...
+2025-09-18 12:59:12,560 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-18 12:59:12,561 INFO 🔄 Starting main event loop...
+2025-09-18 12:59:12,566 INFO GetManagedObjects called
+2025-09-18 12:59:12,571 INFO ✅ Wailo GATT application registered successfully!
+2025-09-18 12:59:12,571 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 12:59:12,572 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-18 12:59:12,572 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-18 12:59:12,595 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-18 12:59:12,595 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-18 12:59:12,595 INFO 🔐 Device name: Wailo
+2025-09-18 12:59:12,595 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 12:59:12,595 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 12:59:12,596 INFO 📖 iOS App should read MAC address to verify device
+2025-09-18 12:59:14,968 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 12:59:14,970 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:59:14,972 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-18 12:59:14,973 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-18 12:59:28,649 INFO 🔐 Received chunk: 32 bytes
+2025-09-18 12:59:28,650 INFO 🔐 Chunk 1 received (total expected: unknown)
+2025-09-18 12:59:28,653 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 12:59:28,654 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 12:59:28,655 INFO 🔐 Chunk content: '{"email":"waqarsae'
+2025-09-18 12:59:28,674 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-18 12:59:28,675 INFO 🔐 Chunk 2 received (total expected: unknown)
+2025-09-18 12:59:28,706 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 12:59:28,706 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 12:59:28,707 INFO 🔐 Chunk content: 'ed533@gmail.com","'
+2025-09-18 12:59:28,707 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-18 12:59:28,707 INFO 🔐 Chunk 3 received (total expected: unknown)
+2025-09-18 12:59:28,766 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 12:59:28,767 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 12:59:28,767 INFO 🔐 Chunk content: 'password":"user_en'
+2025-09-18 12:59:28,767 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xa5 in position 0: invalid start byte
+2025-09-18 12:59:28,767 INFO 🔐 Chunk 4 received (total expected: unknown)
+2025-09-18 12:59:28,828 INFO 🔐 Received chunk: 16 bytes
+2025-09-18 12:59:28,829 INFO 🔐 Small chunk detected (16 bytes), trying to parse as header
+2025-09-18 12:59:28,829 INFO 🔐 Chunk content: 'tered_password"}'
+2025-09-18 12:59:28,830 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-18 12:59:28,831 INFO 🔐 Chunk 5 received (total expected: unknown)
+2025-09-18 12:59:28,919 INFO 🔐 Received chunk: 7 bytes
+2025-09-18 12:59:28,921 INFO 🔐 Small chunk detected (7 bytes), trying to parse as header
+2025-09-18 12:59:28,922 INFO 🔐 Chunk content: '__EOF__'
+2025-09-18 12:59:28,924 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xe1 in position 1: unexpected end of data
+2025-09-18 12:59:28,926 INFO 🔐 EOF marker received - processing complete token
+2025-09-18 12:59:28,927 INFO 🔐 TOKEN RECEIVED SUCCESSFULLY!
+2025-09-18 12:59:28,928 INFO 🔐 Token length: 102 characters
+2025-09-18 12:59:28,929 INFO 🔐 Token preview: {"type":"credentials","total":4}{"email":"waqarsae...
+2025-09-18 12:59:28,934 INFO ✅ Token saved to received_firebase_token.txt
+2025-09-18 12:59:29,267 INFO ✅ Firebase Admin SDK initialized
+2025-09-18 12:59:29,791 ERROR Token exchange failed: 400 - {
+  "error": {
+    "code": 400,
+    "message": "INVALID_CUSTOM_TOKEN : Invalid assertion format. 3 dot separated segments required.",
+    "errors": [
+      {
+        "message": "INVALID_CUSTOM_TOKEN : Invalid assertion format. 3 dot separated segments required.",
+        "domain": "global",
+        "reason": "invalid"
+      }
+    ]
+  }
+}
+
+2025-09-18 12:59:29,792 WARNING ⚠️ Firebase token exchange failed - but token was received successfully
+2025-09-18 12:59:29,792 WARNING ⚠️ This is expected if Firebase API key is not configured
+2025-09-18 12:59:29,793 INFO 🔄 Token received successfully - shutting down BLE server...
+2025-09-18 12:59:29,794 INFO ✅ Handoff marked as complete with token received
+2025-09-18 12:59:31,824 INFO ✅ BLE advertisement unregistered
+2025-09-18 12:59:31,825 INFO ✅ BLE server shutdown complete
+2025-09-18 13:03:53,470 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-18 13:03:54,717 INFO Bluetooth adapter configured for BLE advertising
+2025-09-18 13:03:54,740 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 13:03:54,741 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 13:03:54,741 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-18 13:03:54,741 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 13:03:54,742 INFO 🔐 Token Characteristic initialized
+2025-09-18 13:03:54,742 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-18 13:03:54,742 INFO 🔧 Registering Wailo GATT application...
+2025-09-18 13:03:54,742 INFO 🔍 About to call RegisterApplication...
+2025-09-18 13:03:54,743 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-18 13:03:54,743 INFO 🔄 Starting main event loop...
+2025-09-18 13:03:54,750 INFO GetManagedObjects called
+2025-09-18 13:03:54,755 INFO ✅ Wailo GATT application registered successfully!
+2025-09-18 13:03:54,755 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 13:03:54,756 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-18 13:03:54,757 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-18 13:03:54,779 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-18 13:03:54,780 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-18 13:03:54,780 INFO 🔐 Device name: Wailo
+2025-09-18 13:03:54,781 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-18 13:03:54,781 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-18 13:03:54,782 INFO 📖 iOS App should read MAC address to verify device
+2025-09-18 13:03:58,379 INFO 📖 MAC Characteristic Read by iOS App: [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-18 13:03:58,380 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-18 13:03:58,380 INFO 📱 iOS App has read MAC address: 78:44:5C:8A:67:80
+2025-09-18 13:03:58,381 INFO ⏳ Waiting for Firebase token via TokenCharacteristic...
+2025-09-18 13:04:05,732 INFO 🔐 Received chunk: 32 bytes
+2025-09-18 13:04:05,734 INFO 🔐 Chunk 1 received (total expected: unknown)
+2025-09-18 13:04:05,738 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 13:04:05,739 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 13:04:05,740 INFO 🔐 Chunk content: '{"email":"waqarsae'
+2025-09-18 13:04:05,761 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-18 13:04:05,762 INFO 🔐 Chunk 2 received (total expected: unknown)
+2025-09-18 13:04:05,823 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 13:04:05,823 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 13:04:05,824 INFO 🔐 Chunk content: 'ed533@gmail.com","'
+2025-09-18 13:04:05,824 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (13) cannot be 1 more than a multiple of 4
+2025-09-18 13:04:05,824 INFO 🔐 Chunk 3 received (total expected: unknown)
+2025-09-18 13:04:05,880 INFO 🔐 Received chunk: 18 bytes
+2025-09-18 13:04:05,881 INFO 🔐 Small chunk detected (18 bytes), trying to parse as header
+2025-09-18 13:04:05,881 INFO 🔐 Chunk content: 'password":"waqar12'
+2025-09-18 13:04:05,882 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xa5 in position 0: invalid start byte
+2025-09-18 13:04:05,883 INFO 🔐 Chunk 4 received (total expected: unknown)
+2025-09-18 13:04:05,940 INFO 🔐 Received chunk: 3 bytes
+2025-09-18 13:04:05,941 INFO 🔐 Small chunk detected (3 bytes), trying to parse as header
+2025-09-18 13:04:05,941 INFO 🔐 Chunk content: '1"}'
+2025-09-18 13:04:05,942 INFO 🔐 Not a base64 header: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+2025-09-18 13:04:05,943 INFO 🔐 Chunk 5 received (total expected: unknown)
+2025-09-18 13:04:06,029 INFO 🔐 Received chunk: 7 bytes
+2025-09-18 13:04:06,030 INFO 🔐 Small chunk detected (7 bytes), trying to parse as header
+2025-09-18 13:04:06,030 INFO 🔐 Chunk content: '__EOF__'
+2025-09-18 13:04:06,030 INFO 🔐 Not a base64 header: 'utf-8' codec can't decode byte 0xe1 in position 1: unexpected end of data
+2025-09-18 13:04:06,030 INFO 🔐 EOF marker received - processing complete token
+2025-09-18 13:04:06,031 INFO 🔐 TOKEN RECEIVED SUCCESSFULLY!
+2025-09-18 13:04:06,031 INFO 🔐 Token length: 89 characters
+2025-09-18 13:04:06,031 INFO 🔐 Token preview: {"type":"credentials","total":4}{"email":"waqarsae...
+2025-09-18 13:04:06,032 INFO ✅ Token saved to received_firebase_token.txt
+2025-09-18 13:04:06,366 INFO ✅ Firebase Admin SDK initialized
+2025-09-18 13:04:06,990 ERROR Token exchange failed: 400 - {
+  "error": {
+    "code": 400,
+    "message": "INVALID_CUSTOM_TOKEN : Invalid assertion format. 3 dot separated segments required.",
+    "errors": [
+      {
+        "message": "INVALID_CUSTOM_TOKEN : Invalid assertion format. 3 dot separated segments required.",
+        "domain": "global",
+        "reason": "invalid"
+      }
+    ]
+  }
+}
+
+2025-09-18 13:04:06,993 WARNING ⚠️ Firebase token exchange failed - but token was received successfully
+2025-09-18 13:04:06,993 WARNING ⚠️ This is expected if Firebase API key is not configured
+2025-09-18 13:04:06,994 INFO 🔄 Token received successfully - shutting down BLE server...
+2025-09-18 13:04:06,994 INFO ✅ Handoff marked as complete with token received
+2025-09-18 13:04:09,016 INFO ✅ BLE advertisement unregistered
+2025-09-18 13:04:09,018 INFO ✅ BLE server shutdown complete
+2025-09-20 09:57:34,627 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-20 09:57:34,660 ERROR Failed to configure Bluetooth adapter: Command '['bluetoothctl', 'power', 'on']' returned non-zero exit status 1.
+2025-09-20 09:57:34,660 ERROR ❌ Failed to setup Bluetooth adapter
+2025-09-20 10:18:06,710 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-20 10:18:06,731 ERROR Failed to configure Bluetooth adapter: Command '['bluetoothctl', 'power', 'on']' returned non-zero exit status 1.
+2025-09-20 10:18:06,732 ERROR ❌ Failed to setup Bluetooth adapter
+2025-09-20 10:18:25,812 INFO 🔧 Setting up Bluetooth adapter for PAIRING MODE...
+2025-09-20 10:18:26,912 INFO Bluetooth adapter configured for BLE advertising
+2025-09-20 10:18:26,921 INFO 📱 Using stored MAC address: 78:44:5C:8A:67:80
+2025-09-20 10:18:26,921 INFO MAC Address: 78:44:5C:8A:67:80 -> [dbus.Byte(120), dbus.Byte(68), dbus.Byte(92), dbus.Byte(138), dbus.Byte(103), dbus.Byte(128)]
+2025-09-20 10:18:26,921 INFO 📱 iOS App can now read MAC: 78:44:5C:8A:67:80
+2025-09-20 10:18:26,921 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-20 10:18:26,921 INFO 🔐 Token Characteristic initialized
+2025-09-20 10:18:26,921 INFO 📱 iOS App can now send Firebase custom tokens
+2025-09-20 10:18:26,921 INFO 🔧 Registering Wailo GATT application...
+2025-09-20 10:18:26,921 INFO 🔍 About to call RegisterApplication...
+2025-09-20 10:18:26,921 INFO 🔍 RegisterApplication call completed, waiting for callback...
+2025-09-20 10:18:26,921 INFO 🔄 Starting main event loop...
+2025-09-20 10:18:26,924 INFO GetManagedObjects called
+2025-09-20 10:18:26,928 INFO ✅ Wailo GATT application registered successfully!
+2025-09-20 10:18:26,928 INFO 🔑 Service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-20 10:18:26,928 INFO 📱 MAC Characteristic UUID: 11111111-2222-3333-4444-555555555555
+2025-09-20 10:18:26,928 INFO 🚀 Starting BLE advertising using BlueZ D-Bus API...
+2025-09-20 10:18:26,942 INFO ✅ BLE advertising registered via BlueZ D-Bus API
+2025-09-20 10:18:26,943 INFO 📱 Device is now discoverable by iPhone in PAIRING MODE!
+2025-09-20 10:18:26,943 INFO 🔐 Device name: Wailo
+2025-09-20 10:18:26,943 INFO 🔑 Custom service UUID: 12345678-1234-1234-1234-123456789abc
+2025-09-20 10:18:26,944 INFO ⏰ Pairing mode active for 300 seconds
+2025-09-20 10:18:26,944 INFO 📖 iOS App should read MAC address to verify device
+2025-09-20 10:23:26,945 INFO Pairing mode timeout (300s) - shutting down...
+2025-09-20 10:23:26,960 INFO ✅ BLE advertisement unregistered
+2025-09-20 10:23:26,962 INFO ✅ BLE server shutdown complete

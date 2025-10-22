@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "waylo-251e0",
+  "private_key_id": "c77ecbaa37ade81247253d93974d2f5669916cb0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYVEUGx93l/PK+\nrVVEAuCOgWpE1wcogsrQpe9f5XTshDPqr/yjpwjBrhI6hLITB/f18Vh/V57CU2cr\nkkjcefMLtkrau4R2upXk9QiURKf3HoN681wBf0b/7CmHKzJcdIriHD2moc0DqqH0\nD8fy4MABmW7SHE6Ms4O8xtdl20HSyKUPfEFd4v3k3U4xsTYPZJniwIlHK41Dfi/x\ndoh32eNb5HxRFdpVqAJJ5JYqsjSP3qYIQR4DBBj05bM8YWpm5OL4jgB8PZp8hIo1\nme9gABNAxR1aO+M4tU6cxEQ9BTdpK4mPTGcgcEkK8/xkPkK2wJNG+0CuJli7w3SR\nDUc22rHfAgMBAAECggEAUdT204zRhMl9reF1qqeH+IA+CdJpc8qeG/VZKqZq53lP\nBk0SPXnXFyTY4mgF0KsoAlIMjwc/F/VixpmslDJRXTHU+Q8MGbmVMCn819Fs1E8n\nn1/lgu95lR/pyabugwjW7JeQPrNgES3/24oIsfiQyUoYIMTydckGYWe6XV5mdOwd\nWe8iIDGVnKnwqiO4tuNcEz86l64ZrWuxfi5ejmjvK2qfF6Y7h0PpadsjtJMZ5UIW\n9IxN1L0RVEhw2FE5J8Lk4k+wsPNNjPhn3yTDCFSLAyazUywl6wH/7xRwKtjG9ynd\nlR/kEiWfOkke/vRbUHLFvkRnZxuBjoOXQW5pVLWW8QKBgQDzC55Wt2n8UuKEz73C\nCiB9u/j6hzK4tlIhMiVRO7F13Gx5Wy6bQpkLzM/Fw2TTjHbHsgYwQCSIKdwFbB2L\nBBBWGbBZHa23DQUjOok/DfT0U+ykGNs/jhAR9T3sYndbDNrNuayKm3NHc2Njbvrz\n79VehRyHHpGc1TNkgCsc2zGF9wKBgQDj3BsBrLPTsBM/D4WyOFbc6sfJVQPa6Dcr\nbMJ6Rppkt4hXshOd5V7HQiSrZZxZkHap9ycrqsh0Xxa4RCrI+mOn/EJLTbWliWWE\nCy2UetDwULbofe0bgIPPq2Sv50Q0fHE7ueS0e+I3QklSgDCQCpthr87Izrzdlbyv\naUpkPGIZWQKBgALMyHcxR7xLbCahigsZOMSaDMU+F3x/RTTysfFcoa+86VcAkOni\n+4ZiRqZ9mMTDIn8sctvNcV5MNSeu1ixK0LFdPGXabKzmLn/4ZapfS8ogyWIekzAJ\nP/AlBiCaBcv7uu2RzQYPwmU5VBTKK4Px6GBdYjXASWcoIZ5vx49eixSDAoGBALjj\nzt4q/rfUdamDtN6KLKGRuI87dqdYKfwIgj2psHntGqreCmDiz2cr2olhJ97dBAyi\nSZx7NbCHv+3BEl6GHfsfC8QCyFQMCt18HH4Qsh1twR0hoRXh0BLgZhD9vTBBkbf+\n/P8eTs678LcK4Vzf3nkDqOz0I/hBGhvTedOf05HxAoGBALqSXYjiDLv0iui7B9PG\nxG9ltB9BE+WLBtS8vHVupgsVX92ZA8fHkTRefQoX74unV3twn8IkC8sr8Zaz0+ZP\nSrWY+qppjCR34bjkp9m/HXLFzgvrRH6fjHQ5aot91RMvlnQLY8ngzTIQ1dnNW8ai\nvGuM8/9N0fi1VfRuP8J9NStJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-speech-api-user@waylo-251e0.iam.gserviceaccount.com",
+  "client_id": "110164977423001956248",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-speech-api-user%40waylo-251e0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

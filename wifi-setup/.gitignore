@@ -1,0 +1,15 @@
+# Editor and OS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Node/others (just in case)
+node_modules/
+dist/
+build/
+
+# Local backups or temp files
+*.bak-*
+*.tmp
+

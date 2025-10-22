@@ -1,0 +1,13 @@
+[Unit]
+Description=Captive Portal Flask Server
+After=network.target
+Requires=hotspot.service
+
+[Service]
+User=orangepi
+WorkingDirectory=/home/orangepi/captive-portal
+ExecStart=/home/orangepi/wailo-env/bin/python3.10 /home/orangepi/captive-portal/app.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

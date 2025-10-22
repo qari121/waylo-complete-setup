@@ -1,0 +1,3 @@
+# Allow portal (user orangepi) to apply Wi‑Fi credentials and switch modes without a password
+orangepi ALL=(root) NOPASSWD: /usr/local/bin/portal-apply-creds.sh, /usr/local/bin/switch-to-client.sh
+
