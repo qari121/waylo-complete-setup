@@ -1,0 +1,4 @@
+Token received at: 2025-09-18 13:04:06
+Token length: 89 characters
+Token content:
+{"type":"credentials","total":4}{"email":"waqarsaeed533@gmail.com","password":"waqar121"}

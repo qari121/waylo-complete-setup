@@ -40,7 +40,7 @@ if not os.getenv("GOOGLE_APPLICATION_CREDENTIALS") and DEFAULT_GCP_CRED.exists()
 
 OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 ELEVEN_KEY = "sk_a0520da5d2948fe0b35934a71ba642aaaf21df9d08e70d0d"
-AZURE_SPEECH_KEY = ("ByQCWAq2L5cJFmSEuhtWafBgl8P2YNKf1gB46Z6HqmCDMhSXG6asJQQJ99BHACqBBLyXJ3w3AAAYACOGzjKp")
+AZURE_SPEECH_KEY = ("")
 AZURE_REGION = ("southeastasia")
 AZURE_SPEECH_ENDPOINT="https://southeastasia.api.cognitive.microsoft.com/"
 
